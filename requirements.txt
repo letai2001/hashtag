@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+elasticsearch
+pymongo
+python-dotenv
+pydantic
+numpy
+pandas
+fuzzywuzzy
+
+
+

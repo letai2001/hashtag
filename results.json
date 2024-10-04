@@ -1,0 +1,49 @@
+{
+  "date": "07_21_2024",
+  "type": "facebook",
+  "topic_ids": {
+    "4b14366c-0455-4ed7-9f86-c3291f238c49": {
+      "keywords_top": [
+        {
+          "keyword": "example_keyword",
+          "percentage": 1.7391034347826086,
+          "record": 42
+        }
+      ],
+      "hashtags_top": {
+        "hashtag": "#example_hashtag",
+        "percentage": 1.7391034347826086,
+        "record": 42
+      }
+    },
+
+    "651b8fdb-e6eb-4846-b7de-515e1bb4374f": {
+      "keywords_top": [
+        {
+          "keyword": "example_keyword",
+          "percentage": 1.7391034347826086,
+          "record": 42
+        }
+      ],
+      "hashtags_top": {
+        "hashtag": "#example_hashtag",
+        "percentage": 1.7391034347826086,
+        "record": 42
+      }
+    },
+    "all": {
+      "keywords_top": [
+        {
+          "keyword": "example_keyword",
+          "percentage": 1.7391034347826086,
+          "record": 82
+        }
+      ],
+      "hashtags_top": {
+        "hashtag": "#example_hashtag",
+        "percentage": 1.7391034347826086,
+        "record": 82
+      }
+    }
+  }
+}

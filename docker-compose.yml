@@ -1,0 +1,22 @@
+# version: "3"
+# services:
+#   api:
+#     build:
+#       context: .
+#       dockerfile: Dockerfile
+#     ports:
+#       - "5601:5601"
+#     restart: always
+version: "3.10"
+
+services:
+  api:
+    build:
+      context: .
+    ports:
+      - "5601:5601"
+    volumes:
+      - .:/usr/app/src
+    environment:
+      - TZ=Asia/Ho_Chi_Minh
+    command: ["/bin/bash", "/usr/app/src/startup.sh"]
